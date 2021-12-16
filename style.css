@@ -1,0 +1,27 @@
+* {
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+.button1 {
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    color: darkseagreen;
+    border-radius: 15px;
+    padding: 10px 100px;
+    display: block;
+    margin: 30px;
+}
+.button2{
+    background: midnightblue;
+    color: whitesmoke;
+    border-radius: 50%;
+    font-size: 30px;
+    display: block;
+    margin:140px
+}
+.button3 {
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    color: orangered;
+    box-shadow: 10px 10px 12px black;
+    padding: 10px 30px;
+    display: block;
+    margin:80px
+}
